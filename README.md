@@ -23,7 +23,7 @@ This project provides a set of keyboard shortcuts and combinations to simplify t
 **Ctrl**
 ![Ctrl](src/Ctrl.jpg)
 **CapsLock**
-![CapsLock](src/customCaps.jpg)
+![CapsLock](src/Caps.jpg)
 ### Accented Characters with Caps Lock
 Typing letters with `Caps Lock` produces the corresponding uppercase accented letters:
 
